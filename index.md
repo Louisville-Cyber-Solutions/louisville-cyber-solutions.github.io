@@ -3,7 +3,7 @@ Hi! We're Louisville Cyber Solutions (LCS), a small group of cybersecurity speci
 # Our Projects
 We're rather new but we have a few projects we're looking to get done together:
 
-1. A easy-to-set-up pSecurity Operation Center](https://louisville-cyber-solutions.github.io/SOC/)
+1. A easy-to-set-up [Security Operation Center](https://louisville-cyber-solutions.github.io/SOC/)
 2. Modules for different security vulnerabilities and their patches as apart of above 
 
 # Contact Us
